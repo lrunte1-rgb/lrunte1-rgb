@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lrunte1-rgb
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on jav
+- 💞️ I’m looking to collaborate on java
 - 📫 How to reach me 100
 
 <!---
